@@ -7,5 +7,7 @@ I think I have found a potential method of abusing YouTube without any code what
 
 I build, maintain, and support a lot of websites, a lot of them for free just because I like doing it, they are good people that deserve the help, and absolutely wouldn't be able to afford it themselves otherwise, and I get to work on a LOT of real projects, and in scenarios that I else wouldn't otherwise be anywhere near.
 
+## References
+
 - [Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/index.html)
 - [Report a security vulnerability](https://www.google.com/appserve/security-bugs/m2/new)

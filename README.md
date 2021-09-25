@@ -1,6 +1,8 @@
 # youtube-abuse-proof-of-concept
 😮😮 Proof of concept for some serious abuse of YouTube, potentially with no code required.
 
+![YouTube Abuse](https://user-images.githubusercontent.com/19922556/134776883-88b7e530-3d74-44e8-bdd3-5add7f243920.png)
+
 ## Theory
 
 I think I have found a potential method of abusing YouTube without any code whatsoever. I can't help but be involved in so many things out of interest, and I just spotted something that was completely unrelated to what I was doing at the time, and I had to look further into it, and sure enough I think I am onto something significant.

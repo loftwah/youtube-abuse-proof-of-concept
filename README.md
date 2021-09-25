@@ -9,6 +9,10 @@ I build, maintain, and support a lot of websites, a lot of them for free just be
 
 I installed the YouTube studio application just to play around with it because that's what I do for some reason. I find something, and press every single button available if its a GUI, or try every function if it is a CLI tool, or API. Out of lazyness I host a bunch of videos on YouTube, and also because a lot of my work is also on the platform, under the names of other people that I have done the work for.
 
+I'm a bit tired to keep doing this tonight, but will continue.
+
+This is going to be pretty cool, and I'm not sure if there is anything they can do about it, or it is possible that they already know about it.
+
 ## References
 
 - [Google Vulnerability Reward Program](https://www.google.com/about/appsecurity/reward-program/index.html)
